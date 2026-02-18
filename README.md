@@ -18,7 +18,7 @@ El proyecto cumple con los siguientes estándares:
 - Python 3.x
 - Librerías: `pylint`, `flake8`, `coverage`
 
-## ⚙️ Ejecución de Pruebas
+## Ejecución de Pruebas
 Para correr las pruebas unitarias y generar el reporte de cobertura, utiliza:
 ```bash
 coverage run -m unittest discover
